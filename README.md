@@ -10,10 +10,22 @@
   <img src="https://media2.giphy.com/media/KDZZkcQqMWLKqO40Kp/giphy.gif" alt="webgl1" />
   <img src="https://media1.giphy.com/media/YR8yhCfDfNCWv69Wxi/giphy.gif" alt="webgl1" />
   <img src="https://media3.giphy.com/media/jicXTTC6g5bqkq6xBP/giphy.gif" alt="webgl1" />
-
 </p>
 
-
+<div align="center">
+  <h3>
+    <a href="https://delightful-salmiakki-427e62.netlify.app">
+      Cube Demo 
+    </a>
+	  <span> | </span>
+    <a href="https://genuine-cuchufli-f11e07.netlify.app">
+      Frustum Demo
+    </a>
+	  <span> | </span>
+    <a href="https://zesty-praline-6437cb.netlify.app">
+      Tetrahedron Demo 
+    </a>
+</div>
 
 
 ## How To Use
